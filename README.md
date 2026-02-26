@@ -1,9 +1,9 @@
 # 👋 ¡Hola mundo! Soy Carlos Andrés Hormizda Mosquera
 
-🎯 Buscador profesional de la felicidad  
-📚 Aprendiz eterno por convicción  
-👨‍🏫 Docente de matemáticas y física por vocación  
-💻 Ingeniero de Sistemas desde 2024  
+- 🎯 Buscador profesional de la felicidad  
+- 📚 Aprendiz eterno por convicción  
+- 👨‍🏫 Docente de matemáticas y física por vocación  
+- 💻 Ingeniero de Sistemas desde 2024  
 
 ---
 
