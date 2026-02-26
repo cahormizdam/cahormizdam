@@ -23,7 +23,7 @@ Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tra
 
 ---
 
-## 🔄 Actualmente en modo:
+### 🔄 Actualmente en modo:
 `while(alive) { aprender(); enseñar(); mejorar(); }`
 
 ---
