@@ -1,8 +1,5 @@
-# Hola, mi nombre es Carlos Andrés Hormizda Mosquera  👋
+<h1 align="center">Hola, mi nombre es Carlos Andrés Hormizda Mosquera  👋</h1>
 ### Ingeniero de Sistemas
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
