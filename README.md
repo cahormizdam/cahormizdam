@@ -2,7 +2,7 @@
 <h3>Ingeniero de Sistemas</h3>
 
 <p align="center">
-  <img src="img/WA8.jpg" width="300" alt="Mi Foto">
+  <img src="img/WA8.jpg" width="150" alt="Mi Foto">
 </p>
 
 <div align="center">
