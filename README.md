@@ -126,31 +126,10 @@ En cierto sentido, la informática es la prueba de que con “nada y algo” se 
 
 ---
 
-# 📊 Mini Dashboard Conceptual
+### ✨ Recuerda que...
 
 <p align="center">
-
-| Área         | Concepto Clave        | Impacto |
-|-------------|----------------------|---------|
-| 🧮 Matemáticas | El poder del cero      | Fundamento de la lógica moderna |
-| ⚛️ Física       | Dilatación del tiempo  | El tiempo depende del movimiento |
-| 💻 Informática  | Sistema binario        | Base del mundo digital |
-
-</p>
-
----
-
-# ✨ Animación conceptual (Tiempo Relativo)
-
-<p align="center">
-
-<svg width="300" height="120" viewBox="0 0 300 120">
-  <circle cx="50" cy="60" r="20" fill="#4F46E5">
-    <animate attributeName="cx" from="50" to="250" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <text x="20" y="20" fill="gray" font-size="12">Movimiento rápido → Tiempo más lento</text>
-</svg>
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=500&lines=El+tiempo+no+es+absoluto...;Es+relativo+al+movimiento." />
 </p>
 
 ---
