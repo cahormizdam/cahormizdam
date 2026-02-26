@@ -42,6 +42,14 @@
 
 ###
 
+## 🕹️ Pacman Contributions
+
+<p align="center">
+  <img src="https://github.com/cahormizdam/cahormizdam/blob/output/pacman.svg" />
+</p>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
