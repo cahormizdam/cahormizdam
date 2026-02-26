@@ -50,7 +50,7 @@ Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la físi
 
 ###
 
-## 🕹️ Pacman - Contributiones
+## 🕹️ Contributiones Pacman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cahormizdam/cahormizdam/output/pacman-contribution-graph-dark.svg">
