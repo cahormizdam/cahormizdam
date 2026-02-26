@@ -1,10 +1,6 @@
 <h2>Hola <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" /> mi nombre es Carlos Andrés Hormizda Mosquera</h2>
 <h3>Ingeniero de Sistemas</h3>
 
-<p align="center">
-  <img src="img/WA8.jpg" width="150" alt="Mi Foto">
-</p>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
