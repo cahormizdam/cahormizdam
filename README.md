@@ -53,6 +53,20 @@ Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la físi
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
+---
+
+## 📊 Estadísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cahormizdam&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cahormizdam&theme=tokyonight" />
+</p>
+
+---
+
 ###
 
 <div align="center">
