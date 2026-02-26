@@ -126,7 +126,7 @@ En cierto sentido, la informática es la prueba de que con “nada y algo” se 
 
 ---
 
-### ✨ Y recuerda que...
+### ✨ Y recuerda que:
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=500&lines=El+tiempo+no+es+absoluto...;Es+relativo+al+movimiento." />
