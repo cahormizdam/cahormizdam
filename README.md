@@ -45,6 +45,14 @@ Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la físi
 
 ---
 
+### 📊 Estadísticas GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cahormizdam&locale=es&mode=daily&theme=tokyonight" />
+</p>
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -55,16 +63,6 @@ Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la físi
 
 ---
 
-### 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cahormizdam&locale=es&mode=daily&theme=tokyonight" />
-</p>
-
----
-
-###
-
 ### 🕹️ Contributiones Pacman
 
 <picture>
@@ -74,11 +72,11 @@ Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la físi
 </picture>
 
 ---
+
 ### 🤝 Conectemos
 <p align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:csamatematicas@gmail.com"> <img src="https://img.shields.io/badge/Email-Escribir-red?style=for-the-badge&logo=gmail" /> </a> </p>
----
 
-###
+---
 
 - 🔭 Actualmente estoy trabajando en...
 - 🌱 Actualmente estoy aprendiendo...
