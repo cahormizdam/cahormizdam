@@ -5,7 +5,7 @@
 👨‍🏫 Docente de matemáticas y física por vocación  
 💻 Ingeniero de Sistemas desde 2024  
 
----
+--
 
 Dicen que la felicidad no es un destino… es un proceso iterativo 😄  
 Y en mi caso, he descubierto que aprender algo nuevo cada día es como hacer un `git pull` a la alegría.
