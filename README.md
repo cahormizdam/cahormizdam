@@ -126,7 +126,7 @@ En cierto sentido, la informática es la prueba de que con “nada y algo” se 
 
 ---
 
-### ✨ Recuerda que...
+### ✨ Y recuerda que...
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=500&lines=El+tiempo+no+es+absoluto...;Es+relativo+al+movimiento." />
@@ -135,8 +135,7 @@ En cierto sentido, la informática es la prueba de que con “nada y algo” se 
 ---
 
 <div align="center">
+  Si llegaste hasta aquí, bienvenido(a) a mi universo donde los números, la física y el código conviven en armonía.
   
-  Si llegaste hasta aquí, bienvenido(a) a mi universo donde los números, la física y el código conviven en armonía.   
   Porque al final, aprender también es una forma de ser feliz.
-  
 </div>
