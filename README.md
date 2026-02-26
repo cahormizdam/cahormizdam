@@ -10,7 +10,7 @@
 Dicen que la felicidad no es un destino… es un proceso iterativo 😄  
 Y en mi caso, he descubierto que aprender algo nuevo cada día es como hacer un `git pull` a la alegría.
 
-Entre ecuaciones diferenciales, leyes de Newton y líneas de código, encontré el punto donde la lógica, la enseñanza y la tecnología hacen merge perfecto.
+Entre ecuaciones, leyes de Newton y líneas de código, encontré el punto donde la lógica, la enseñanza y la tecnología hacen merge perfecto.
 
 🧠 Creo firmemente que:
 - La matemática no muerde.
