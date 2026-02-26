@@ -56,9 +56,9 @@ Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tra
 
 <p align="center">
 <!-- ===================== MINI DASHBOARD ===================== -->
-<img src="https://img.shields.io/badge/🧮%20Matemáticas-Precisión%20Lógica-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⚛️%20Física-Universo%20Relativo-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💻%20Informática-Código%20Binario-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧮%20Matemáticas-Precisión%20Lógica-blue?style=for-the-badge" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/⚛️%20Física-Universo%20Relativo-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻%20Informática-Código%20Binario-black?style=for-the-badge" />
 </p>
 
 ### 🧮 Matemáticas
