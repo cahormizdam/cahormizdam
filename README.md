@@ -45,7 +45,7 @@ Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tra
 
 ---
 
-### 🕹️ Pacman de Contributiones
+### 🕹️ Pacman de contributiones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cahormizdam/cahormizdam/output/pacman-contribution-graph-dark.svg">
