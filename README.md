@@ -41,6 +41,14 @@
 
 ###
 
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app?username=cahormizdam&theme=dracula..." height="150" />
+  <img src="https://streak-stats.demolab.com?user=cahormizdam&theme=dracula..." height="150" />
+</div>
+
+###
+
 ## 🕹️ Pacman Contributions
 
 <picture>
