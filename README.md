@@ -1,6 +1,5 @@
 # 👋 ¡Hola mundo! Soy Carlos Andrés Hormizda Mosquera
 
-🇨🇴 Orgullosamente nacido en la bella ciudad de Bogotá  
 🎯 Buscador profesional de la felicidad  
 📚 Aprendiz eterno por convicción  
 👨‍🏫 Docente de matemáticas y física por vocación  
