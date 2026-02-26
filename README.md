@@ -61,6 +61,10 @@ Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tra
   <img src="https://img.shields.io/badge/💻%20Informática-Código%20Binario-black?style=for-the-badge" />
 </p>
 
+![Matemáticas](https://img.shields.io/badge/🧮%20Matemáticas-Precisión%20Lógica-blue?style=for-the-badge)
+![Física](https://img.shields.io/badge/⚛️%20Física-Universo%20Relativo-purple?style=for-the-badge)
+![Informática](https://img.shields.io/badge/💻%20Informática-Código%20Binario-black?style=for-the-badge)
+
 ### 🧮 Matemáticas
 
 🔢 El número **0** revolucionó el mundo.  
