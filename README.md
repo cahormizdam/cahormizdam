@@ -55,27 +55,17 @@ Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la físi
 
 ---
 
-## 📊 Estadísticas GitHub
+### 📊 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cahormizdam&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cahormizdam&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=cahormizdam&locale=es&mode=daily&theme=tokyonight" />
 </p>
 
 ---
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cahormizdam&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-## 🕹️ Contributiones Pacman
+### 🕹️ Contributiones Pacman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cahormizdam/cahormizdam/output/pacman-contribution-graph-dark.svg">
