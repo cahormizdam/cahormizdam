@@ -1,4 +1,4 @@
-<h1>Hola, mi nombre es Carlos Andrés Hormizda Mosquera  👋</h1>
+<h2>Hola, mi nombre es Carlos Andrés Hormizda Mosquera  👋</h2>
 <h2>Ingeniero de Sistemas</h2>
 
 <div align="center">
