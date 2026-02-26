@@ -2,8 +2,8 @@
 
 - 🎯 Buscador profesional de la felicidad  
 - 📚 Aprendiz eterno por convicción  
-- 👨‍🏫 Docente de matemáticas y física por vocación  
-- 💻 Ingeniero de Sistemas desde 2024  
+- 👨‍🏫 Docente de matemáticas y física por vocación durante un poco más de 20 años  
+- 💻 Ingeniero de Sistemas  
 
 ---
 
