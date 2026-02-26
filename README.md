@@ -1,27 +1,40 @@
 <h2>Hola <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" /> mi nombre es Carlos Andrés Hormizda Mosquera</h2>
 <h3>Ingeniero de Sistemas</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+# 👋 ¡Hola mundo! Soy Carlos Andrés Hormizda Mosquera
+
+🇨🇴 Orgullosamente nacido en la bella ciudad de Bogotá  
+🎯 Buscador profesional de la felicidad  
+📚 Aprendiz eterno por convicción  
+👨‍🏫 Docente de matemáticas y física por vocación  
+💻 Ingeniero de Sistemas desde 2024  
+
+---
+
+Dicen que la felicidad no es un destino… es un proceso iterativo 😄  
+Y en mi caso, he descubierto que aprender algo nuevo cada día es como hacer un `git pull` a la alegría.
+
+Entre ecuaciones diferenciales, leyes de Newton y líneas de código, encontré el punto donde la lógica, la enseñanza y la tecnología hacen merge perfecto.
+
+🧠 Creo firmemente que:
+- La matemática no muerde.
+- La física no es brujería (aunque a veces lo parezca).
+- Y el código… bueno, el código sí compila (casi siempre 😅).
+
+Como docente, disfruto explicar lo complejo de forma sencilla.  
+Como ingeniero de sistemas, disfruto convertir ideas en soluciones.  
+Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tras versión 🚀
+
+---
+
+## 🔄 Actualmente en modo:
+`while(alive) { aprender(); enseñar(); mejorar(); }`
+
+---
+
+Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la física y el código conviven en armonía.
+
+✨ Porque al final, aprender también es una forma de ser feliz.
 
 ###
 
