@@ -1,6 +1,3 @@
-<h2>Hola <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" /> mi nombre es Carlos Andrés Hormizda Mosquera</h2>
-<h3>Ingeniero de Sistemas</h3>
-
 # 👋 ¡Hola mundo! Soy Carlos Andrés Hormizda Mosquera
 
 🇨🇴 Orgullosamente nacido en la bella ciudad de Bogotá  
