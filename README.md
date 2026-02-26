@@ -41,13 +41,15 @@
 
 ###
 
-## 🕹️ Pacman Contributions
+## 🕹️ Pacman Contributions 1
 
 <p align="center">
   <img src="https://github.com/cahormizdam/cahormizdam/blob/output/pacman.svg" />
 </p>
 
 ###
+
+## 🕹️ Pacman Contributions 2
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cahormizdam/cahormizdam/output/pacman-contribution-graph-dark.svg">
