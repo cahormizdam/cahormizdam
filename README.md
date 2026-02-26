@@ -54,16 +54,7 @@ Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tra
 
 ### 🌟 Datos curiosos para conversar
 
-<p align="center">
-<!-- ===================== MINI DASHBOARD ===================== -->
-  <img src="https://img.shields.io/badge/🧮%20Matemáticas-Precisión%20Lógica-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚛️%20Física-Universo%20Relativo-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻%20Informática-Código%20Binario-black?style=for-the-badge" />
-</p>
-
-### 🧮 Matemáticas
-
-🔢 El número **0** revolucionó el mundo.  
+#### 🧮 Matemáticas: El número **0** revolucionó el mundo.  
 
 Aunque parece simple, fue desarrollado formalmente en la India y difundido por el matemático persa Muhammad ibn Musa al-Khwarizmi, aquel que aparece en la portada del "Álgebra Baldor".
 
@@ -75,9 +66,7 @@ Sin el cero no existirían:
 
 **A veces la "nada" es mucho más poderosa.**
 
-### ⚛️ Física
-
-🚀 Si viajaras cerca de la velocidad de la luz, ⏳ **el tiempo para ti pasaría más lento**. Este fenómeno se llama **dilatación del tiempo**.
+#### ⚛️ Física: Si viajaras cerca de la velocidad de la luz, ⏳ **el tiempo para ti pasaría más lento**. Este fenómeno se llama **dilatación del tiempo**.
 
 En términos simples:
 
@@ -89,9 +78,7 @@ De hecho, el sistema GPS debe corregir estos efectos relativistas para funcionar
 
 **La física nos demuestra que el tiempo no es absoluto… es relativo al movimiento.**
 
-### 💻 Informática
-
-Todo lo que ves en tu pantalla —imágenes, videos, videojuegos, inteligencia artificial— se reduce a solo dos símbolos: 0 y 1.
+#### 💻 Informática: Todo lo que ves en tu pantalla —imágenes, videos, videojuegos, inteligencia artificial— se reduce a solo dos símbolos: 0 y 1.
 El sistema binario es la base de la computación moderna, y su formalización matemática fue desarrollada en el siglo XVII por Gottfried Wilhelm Leibniz.
 
 Curiosamente:
