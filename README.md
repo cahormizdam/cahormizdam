@@ -1,4 +1,4 @@
-<h2>Hola<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" />, mi nombre es Carlos Andrés Hormizda Mosquera</h2>
+<h2>Hola<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />. Mi nombre es Carlos Andrés Hormizda Mosquera</h2>
 <h3>Ingeniero de Sistemas</h3>
 
 <div align="center">
