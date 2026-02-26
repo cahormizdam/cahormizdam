@@ -134,6 +134,9 @@ En cierto sentido, la informática es la prueba de que con “nada y algo” se 
 
 ---
 
-Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la física y el código conviven en armonía.
-
-✨ Porque al final, aprender también es una forma de ser feliz.
+<div align="center">
+  
+  Si llegaste hasta aquí, bienvenido(a) a mi universo donde los números, la física y el código conviven en armonía.   
+  Porque al final, aprender también es una forma de ser feliz.
+  
+</div>
