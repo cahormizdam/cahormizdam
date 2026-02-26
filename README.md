@@ -28,15 +28,6 @@ Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tra
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubicación-Bogotá🇨🇴-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Profesión-Docente-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ingeniero%20de%20Sistemas-2024-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Modo-Aprendiz%20Eterno-orange?style=for-the-badge" />
-</p>
-
----
-
 ### 📊 Estadísticas GitHub
 
 <p align="center">
@@ -64,9 +55,7 @@ Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tra
 
 ---
 
----
-
-### 🌟 Finalicemos con algunos datos curiosos
+### 🌟 Datos curiosos para conversar
 
 <p align="center">
 <!-- ===================== MINI DASHBOARD ===================== -->
@@ -74,8 +63,6 @@ Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tra
 <img src="https://img.shields.io/badge/⚛️%20Física-Universo%20Relativo-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💻%20Informática-Código%20Binario-black?style=for-the-badge" />
 </p>
-
----
 
 ### 🧮 Matemáticas
 
@@ -91,8 +78,6 @@ Sin el cero no existirían:
 
 **A veces la "nada" es mucho más poderosa.**
 
----
-
 ### ⚛️ Física
 
 🚀 Si viajaras cerca de la velocidad de la luz, ⏳ **el tiempo para ti pasaría más lento**. Este fenómeno se llama **dilatación del tiempo**.
@@ -106,8 +91,6 @@ En términos simples:
 De hecho, el sistema GPS debe corregir estos efectos relativistas para funcionar con precisión.  
 
 **La física nos demuestra que el tiempo no es absoluto… es relativo al movimiento.**
-
----
 
 ### 💻 Informática
 
