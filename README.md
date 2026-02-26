@@ -34,6 +34,17 @@ Si llegaste hasta aquí, bienvenido/a a mi universo donde los números, la físi
 
 ###
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubicación-Bogotá🇨🇴-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profesión-Docente-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ingeniero%20de%20Sistemas-2024-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modo-Aprendiz%20Eterno-orange?style=for-the-badge" />
+</p>
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
