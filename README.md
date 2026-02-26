@@ -21,10 +21,7 @@ Como docente, disfruto explicar lo complejo de forma sencilla.
 Como ingeniero de sistemas, disfruto convertir ideas en soluciones.  
 Como ser humano, disfruto aprender, enseñar y seguir evolucionando versión tras versión 🚀
 
----
-
-### 🔄 Actualmente en modo:
-`while(alive) { aprender(); enseñar(); mejorar(); }`
+#### 🔄 Actualmente en modo: `while(alive) { aprender(); enseñar(); mejorar(); }`
 
 ---
 
